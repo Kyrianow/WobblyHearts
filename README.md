@@ -14,7 +14,7 @@ https://github.com/Kyrianow/WobblyHearts/assets/140896938/4728e4a8-6f53-4b7d-a54
 
 ## Craft
 
-There is a **custom craft** for the **Enchanted Golden Apple** **as seen below**.
+There is a **custom craft** for the **Enchanted Golden Apple** as seen below.
 > Also shown in the recipe book in-game.
 
 ![Enchanted Golden Apple craft](https://github.com/Kyrianow/WobblyHearts/assets/140896938/e5291139-6dd1-45bf-9394-c7d453831c49)
