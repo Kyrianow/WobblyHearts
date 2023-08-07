@@ -3,14 +3,21 @@
 ![WobblyHearts](https://github.com/Kyrianow/WobblyHearts/assets/140896938/9cd60357-d9e4-4453-96d8-e9b4661c26f9)
 
 **WobblyHearts** is a **datapack** based on hearts management with a simple concept:<br>
-- You **lose** a **heart** on **death**, and **get one** upon eating an **enchanted golden apple**.
+- You **lose** a **heart** on **death**, and **get one** upon eating an **Enchanted Golden Apple**.
 - Once you have no more hearts, you get **[banned](. "Or put in Spectator if you're on Singleplayer.")**.
 
-<details><summary>Example video</summary>
+<details><summary><b>Example video</b></summary>
   
 https://github.com/Kyrianow/WobblyHearts/assets/140896938/4728e4a8-6f53-4b7d-a54e-41cfa29473a7
 
 </details>
+
+## Craft
+
+There is a **custom craft** for the **Enchanted Golden** Apple **as seen below**.
+> Also shown in the recipe book in-game.
+
+![Enchanted Golden Apple craft](https://github.com/Kyrianow/WobblyHearts/assets/140896938/e5291139-6dd1-45bf-9394-c7d453831c49)
 
 ## How to update
 
