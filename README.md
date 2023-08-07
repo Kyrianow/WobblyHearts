@@ -13,3 +13,7 @@ MP4 Placeholder
 ## How to update
 
 Simply **delete** the **WobblyHearts.zip** and **replace** it with the **new** one!
+
+## Note
+
+Let me know if you want other hearts limits by **<a href="https://github.com/Kyrianow/WobblyHearts/issues" target="_blank">opening an issue**
