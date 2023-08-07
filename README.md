@@ -7,7 +7,9 @@
 - Once you have no more hearts, you get **banned**.
 
 <details><summary>Example video</summary>
-MP4 Placeholder
+  
+https://github.com/Kyrianow/WobblyHearts/assets/140896938/4728e4a8-6f53-4b7d-a54e-41cfa29473a7
+
 </details>
 
 ## How to update
