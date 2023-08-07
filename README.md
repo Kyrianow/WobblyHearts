@@ -4,7 +4,7 @@
 
 **WobblyHearts** is a **datapack** based on hearts management with a simple concept:<br>
 - You **lose** a **heart** on **death**, and **get one** upon eating an **enchanted golden apple**.
-- Once you have no more hearts, you get **banned**.
+- Once you have no more hearts, you get **[banned](. "Or put in Spectator if you're on Singleplayer.")**.
 
 <details><summary>Example video</summary>
   
