@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:netherite_chestplate"
+        },
+        {
+            "item": "minecraft:end_crystal"
+        },
+        {
+            "item": "minecraft:respawn_anchor"
+        },
+        {
+            "item": "minecraft:conduit"
+        },
+        {
+            "item": "minecraft:golden_apple"
+        },
+        {
+            "item": "minecraft:rabbit_stew"
+        },
+        {
+            "item": "minecraft:cake"
+        },
+        {
+            "item": "minecraft:turtle_helmet"
+        },
+        {
+            "item": "minecraft:beacon"
+        }
+    ],
+    "result": {
+        "item": "minecraft:enchanted_golden_apple",
+        "count": 1
+    }
+}
